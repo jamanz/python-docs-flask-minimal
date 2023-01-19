@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Laba2example'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_792E64D791EA4F3699CBF81C4AA3C54E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54B2D4ABE24E4AC1A2D63A239E6AF168 }}
